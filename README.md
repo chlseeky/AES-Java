@@ -1,5 +1,5 @@
 # AES-Java
-通过 C++代码转换的AES加密
 
-使用：new AES().AESDecrypt(...)  new AES().AESEncrypt(...)
+解密  new AES().AESDecrypt(...)    
+加密  new AES().AESEncrypt(...)
 
